@@ -1,0 +1,1158 @@
+/* Containers
+----------------------------------------------------------------------------------------------------*/
+.container_20 {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+/* Grid >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12,
+.grid_13,
+.grid_14,
+.grid_15,
+.grid_16,
+.grid_17,
+.grid_18,
+.grid_19,
+.grid_20 {
+	display:inline;
+	position: absolute;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+/* Grid >> Children (Alpha ~ First, Omega ~ Last)
+----------------------------------------------------------------------------------------------------*/
+
+.alpha {
+	margin-left: 0;
+}
+
+.omega {
+	margin-right: 0;
+}
+
+/* Grid >> 20 Columns
+----------------------------------------------------------------------------------------------------*/
+
+
+.container_20 .grid_1 {
+	width:3.0%;
+}
+
+.container_20 .grid_2 {
+	width:8.0%;
+}
+
+.container_20 .grid_3 {
+	width:13.0%;
+}
+
+.container_20 .grid_4 {
+	width:18.0%;
+}
+
+.container_20 .grid_5 {
+	width:23.0%;
+}
+
+.container_20 .grid_6 {
+	width:28.0%;
+}
+
+.container_20 .grid_7 {
+	width:33.0%;
+}
+
+.container_20 .grid_8 {
+	width:38.0%;
+}
+
+.container_20 .grid_9 {
+	width:43.0%;
+}
+
+.container_20 .grid_10 {
+	width:48.0%;
+}
+
+.container_20 .grid_11 {
+	width:53.0%;
+}
+
+.container_20 .grid_12 {
+	width:58.0%;
+}
+
+.container_20 .grid_13 {
+	width:63.0%;
+}
+
+.container_20 .grid_14 {
+	width:68.0%;
+}
+
+.container_20 .grid_15 {
+	width:73.0%;
+}
+
+.container_20 .grid_16 {
+	width:78.0%;
+}
+
+.container_20 .grid_17 {
+	width:83.0%;
+}
+
+.container_20 .grid_18 {
+	width:88.0%;
+}
+
+.container_20 .grid_19 {
+	width:93.0%;
+}
+
+.container_20 .grid_20 {
+	width:98.0%;
+}
+
+
+
+/* Prefix Extra Space >> 20 Columns
+----------------------------------------------------------------------------------------------------*/
+
+
+.container_20 .prefix_1 {
+	padding-left:5.0%;
+}
+
+.container_20 .prefix_2 {
+	padding-left:10.0%;
+}
+
+.container_20 .prefix_3 {
+	padding-left:15.0%;
+}
+
+.container_20 .prefix_4 {
+	padding-left:20.0%;
+}
+
+.container_20 .prefix_5 {
+	padding-left:25.0%;
+}
+
+.container_20 .prefix_6 {
+	padding-left:30.0%;
+}
+
+.container_20 .prefix_7 {
+	padding-left:35.0%;
+}
+
+.container_20 .prefix_8 {
+	padding-left:40.0%;
+}
+
+.container_20 .prefix_9 {
+	padding-left:45.0%;
+}
+
+.container_20 .prefix_10 {
+	padding-left:50.0%;
+}
+
+.container_20 .prefix_11 {
+	padding-left:55.0%;
+}
+
+.container_20 .prefix_12 {
+	padding-left:60.0%;
+}
+
+.container_20 .prefix_13 {
+	padding-left:65.0%;
+}
+
+.container_20 .prefix_14 {
+	padding-left:70.0%;
+}
+
+.container_20 .prefix_15 {
+	padding-left:75.0%;
+}
+
+.container_20 .prefix_16 {
+	padding-left:80.0%;
+}
+
+.container_20 .prefix_17 {
+	padding-left:85.0%;
+}
+
+.container_20 .prefix_18 {
+	padding-left:90.0%;
+}
+
+.container_20 .prefix_19 {
+	padding-left:95.0%;
+}
+
+
+
+/* Suffix Extra Space >> 20 Columns
+----------------------------------------------------------------------------------------------------*/
+
+
+.container_20 .suffix_1 {
+	padding-right:5.0%;
+}
+
+.container_20 .suffix_2 {
+	padding-right:10.0%;
+}
+
+.container_20 .suffix_3 {
+	padding-right:15.0%;
+}
+
+.container_20 .suffix_4 {
+	padding-right:20.0%;
+}
+
+.container_20 .suffix_5 {
+	padding-right:25.0%;
+}
+
+.container_20 .suffix_6 {
+	padding-right:30.0%;
+}
+
+.container_20 .suffix_7 {
+	padding-right:35.0%;
+}
+
+.container_20 .suffix_8 {
+	padding-right:40.0%;
+}
+
+.container_20 .suffix_9 {
+	padding-right:45.0%;
+}
+
+.container_20 .suffix_10 {
+	padding-right:50.0%;
+}
+
+.container_20 .suffix_11 {
+	padding-right:55.0%;
+}
+
+.container_20 .suffix_12 {
+	padding-right:60.0%;
+}
+
+.container_20 .suffix_13 {
+	padding-right:65.0%;
+}
+
+.container_20 .suffix_14 {
+	padding-right:70.0%;
+}
+
+.container_20 .suffix_15 {
+	padding-right:75.0%;
+}
+
+.container_20 .suffix_16 {
+	padding-right:80.0%;
+}
+
+.container_20 .suffix_17 {
+	padding-right:85.0%;
+}
+
+.container_20 .suffix_18 {
+	padding-right:90.0%;
+}
+
+.container_20 .suffix_19 {
+	padding-right:95.0%;
+}
+
+
+
+/* Push Space >> 20 Columns
+----------------------------------------------------------------------------------------------------*/
+
+
+.container_20 .push_1 {
+	left:5.0%;
+}
+
+.container_20 .push_2 {
+	left:10.0%;
+}
+
+.container_20 .push_3 {
+	left:15.0%;
+}
+
+.container_20 .push_4 {
+	left:20.0%;
+}
+
+.container_20 .push_5 {
+	left:25.0%;
+}
+
+.container_20 .push_6 {
+	left:30.0%;
+}
+
+.container_20 .push_7 {
+	left:35.0%;
+}
+
+.container_20 .push_8 {
+	left:40.0%;
+}
+
+.container_20 .push_9 {
+	left:45.0%;
+}
+
+.container_20 .push_10 {
+	left:50.0%;
+}
+
+.container_20 .push_11 {
+	left:55.0%;
+}
+
+.container_20 .push_12 {
+	left:60.0%;
+}
+
+.container_20 .push_13 {
+	left:65.0%;
+}
+
+.container_20 .push_14 {
+	left:70.0%;
+}
+
+.container_20 .push_15 {
+	left:75.0%;
+}
+
+.container_20 .push_16 {
+	left:80.0%;
+}
+
+.container_20 .push_17 {
+	left:85.0%;
+}
+
+.container_20 .push_18 {
+	left:90.0%;
+}
+
+.container_20 .push_19 {
+	left:95.0%;
+}
+
+
+
+/* Pull Space >> 20 Columns
+----------------------------------------------------------------------------------------------------*/
+
+
+.container_20 .pull_1 {
+	left:-5.0%;
+}
+
+.container_20 .pull_2 {
+	left:-10.0%;
+}
+
+.container_20 .pull_3 {
+	left:-15.0%;
+}
+
+.container_20 .pull_4 {
+	left:-20.0%;
+}
+
+.container_20 .pull_5 {
+	left:-25.0%;
+}
+
+.container_20 .pull_6 {
+	left:-30.0%;
+}
+
+.container_20 .pull_7 {
+	left:-35.0%;
+}
+
+.container_20 .pull_8 {
+	left:-40.0%;
+}
+
+.container_20 .pull_9 {
+	left:-45.0%;
+}
+
+.container_20 .pull_10 {
+	left:-50.0%;
+}
+
+.container_20 .pull_11 {
+	left:-55.0%;
+}
+
+.container_20 .pull_12 {
+	left:-60.0%;
+}
+
+.container_20 .pull_13 {
+	left:-65.0%;
+}
+
+.container_20 .pull_14 {
+	left:-70.0%;
+}
+
+.container_20 .pull_15 {
+	left:-75.0%;
+}
+
+.container_20 .pull_16 {
+	left:-80.0%;
+}
+
+.container_20 .pull_17 {
+	left:-85.0%;
+}
+
+.container_20 .pull_18 {
+	left:-90.0%;
+}
+
+.container_20 .pull_19 {
+	left:-95.0%;
+}
+
+
+
+
+/* Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://perishablepress.com/press/2008/02/05/lessons-learned-concerning-the-clearfix-css-hack */
+
+.clearfix:after {
+	clear: both;
+	content: ' ';
+	display: block;
+	font-size: 0;
+	line-height: 0;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+.clearfix {
+	display: block;
+}
+
+
+/* Client Call Panel */
+#client-call-panel {
+	position: absolute;
+	top: 5;
+	left: 0;
+	bottom: 0;
+	padding: 0;
+}
+
+#availability-options {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	border-bottom: 1px solid #444;
+	border-right: 1px solid #444;
+	border-left: 1px solid #444;
+	-moz-border-radius-bottomright: 5px; /* FF1+ */
+	-webkit-border-bottom-right-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-bottom-right-radius: 5px; /* Konqueror */
+	border-bottom-right-radius: 5px; /* Standard. IE9 */
+	-moz-border-radius-bottomleft: 5px; /* FF1+ */
+	-webkit-border-bottom-left-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-bottom-left-radius: 5px; /* Konqueror */
+	border-bottom-left-radius: 5px; /* Standard. IE9 */
+    background-color: #222;
+    z-index: 20;
+}
+#availability-summary {
+	margin: 0px;
+	text-align: left;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+#availability-summary p,
+#availability-inputs p {
+	font-size: 12px;
+}
+
+#availability-summary span, .pick-availability {
+	color: #CCC;
+	line-height: 12px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+#availability-inputs span.device-number {
+	white-space: nowrap;
+}
+
+#availability-summary #availability-name span {
+	vertical-align: baseline;
+}
+
+#availability-summary #availability-toggle {
+	display: block;
+	position: absolute;
+	right: 3px;
+	top: 6px;
+	width: 12px;
+	height: 12px;
+	line-height: 9px;
+	text-align: center;
+	margin: 0;
+	color: white;
+	-moz-transform: rotate(90deg); /* FF3.5+ */
+	-webkit-transform: rotate(90deg); /* Saf3.1+, Chrome */
+	-o-transform: rotate(90deg); /* Opera 10.5 */
+	transform: rotate(90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+#availability-summary #availability-name {
+	margin-right: 5px;
+}
+
+#availability-summary #availability-status-console {
+	display: inline-block;
+	width: 30px;
+	height: 35px;
+	background: url(../img/vbx-client-status.png) 5px -30px no-repeat;
+}
+
+#availability-inputs .menu-drop {
+	margin: 0;
+	cursor: pointer;
+}
+
+#availability-inputs .pick-availability {
+	display: inline;
+}
+
+#availability-inputs .pick-availability #availability-name {
+	display: inline-block;
+	width: 100px;
+	height: 24px;
+}
+
+.available {
+	display: inline-block;
+	float: left;
+	width: 30px;
+	height: 35px;
+	background: url(../img/vbx-client-status.png) 5px -60px no-repeat;
+}
+
+.not-available {
+	display: inline-block;
+	float: left;
+	width: 30px;
+	height: 35px;
+	background: url(../img/vbx-client-status.png) 5px -95px no-repeat;
+}
+
+#availability-inputs .pick-availability li {
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	font-size: 13px;
+	color: #FFF;
+}
+
+#availability-inputs .pick-availability li:hover {
+	background-color: #333;
+}
+
+#availability #call-options .label-text {
+	font-size: 11px;
+	width: 45px;
+}
+
+#availability #call-options select {
+	font-size: 12px;
+	padding: 1px 0;
+	width: 133px;
+}
+
+#client-mode-status-text p {
+	color: #FFF;
+	text-align: center;
+	font-size: 12px;
+	margin: 2px 0;
+}
+
+#client-mode-status-text .enabled {
+	display: block;
+}
+
+#client-mode-status-text .disabled {
+	display: none;
+}
+
+#availability {
+	display: block;
+	width: 150px;
+	margin: 0 0 10px 0;
+	padding: 0 10px;
+	clear: left;
+}
+
+#availability h2 {
+	color: #FFF;
+	text-align: center;
+	text-shadow: #222 2px 2px 2px;
+}
+
+#availability fieldset {
+	margin: 0 0 10px 0;
+	padding: 0;
+	border: none;
+}
+
+#availability .field-label {
+	display: block;
+	margin: 0 0 5px 0;
+	clear: left;
+}
+
+#availability .label-text {
+	display: block;
+	float: left;
+	width: 30px;
+	margin: 0;
+	padding: 3px;
+	font-size: 14px;
+	color: #FFF;
+}
+
+#availability .field-label input,
+#availability .field-label select {
+	margin: 0;
+	padding: 0;
+}
+
+#availability .field-label select {
+	width: 129px;
+	font-size: 12px;
+	padding: 4px 0;
+}
+
+/* Client Volume Controls */
+
+#controls {
+	position: fixed;
+	top: 0px;
+	border-bottom: 1px solid #444;
+	border-left: 1px solid #444;
+	border-right: 1px solid #444;
+	-moz-border-radius-bottomright: 5px; /* FF1+ */
+	-webkit-border-bottom-right-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-bottom-right-radius: 5px; /* Konqueror */
+	border--bottom-right-radius: 5px; /* Standard. IE9 */
+	-moz-border-radius-bottomleft: 5px; /* FF1+ */
+	-webkit-border-bottom-left-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-bottom-left-radius: 5px; /* Konqueror */
+	border--bottom-left-radius: 5px; /* Standard. IE9 */
+	background-color: #222;
+	z-index: 20;
+}
+#controls-summary {
+	margin: 0px;
+	text-align: left;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+#controls #controls-toggle {
+	display: block;
+	float: right;
+	width: 12px;
+	height: 12px;
+	line-height: 9px;
+	text-align: center;
+	margin: 0;
+	color: white;
+	-moz-transform: rotate(90deg); /* FF3.5+ */
+	-webkit-transform: rotate(90deg); /* Saf3.1+, Chrome */
+	-o-transform: rotate(90deg); /* Opera 10.5 */
+	transform: rotate(90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+	
+#controls #control-actions {
+	padding-top: 20px;
+}
+
+#controls #mute {
+	position: relative;
+	height: 20px;
+	width: 20px;
+	margin-left: 8;
+	background-image: url('../img/mute.png');
+	background-repeat: no-repeat;
+	bottom: 12;
+}
+#controls #volume {
+	position: relative;
+	height: 160px;
+	width: 150px;
+	margin-left: 20px;
+	background-image: url('../img/volume.png');
+	background-repeat: no-repeat;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+}
+
+#client-ui-status{
+	position: fixed;
+	top: 0px;
+}
+
+
+/* On Call */
+#client-on-call{
+	position: fixed;
+	top: 0;
+	height: 43px;
+	background-color: transparent;
+	z-index: 20;
+}
+
+button#client-ui-claim {
+	height: 25px;
+	width: 55px;
+    padding: 0;
+	font-size: 12px;
+	color: #FFF;
+	background-color: #222;
+    background: -moz-linear-gradient(100% 100% 90deg, #000, #222);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#222), to(#000));
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	text-shadow: 0px 0px;
+	border-radius: 8px;
+	border: none;
+    cursor: pointer;
+}
+
+
+td #client-ui-claim {
+	background-color: #53A82B;
+    background: -moz-linear-gradient(100% 100% 90deg, #448723, #53A82B);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#53A82B), to(#448723));
+}
+
+td #client-ui-claim:active {
+	background-color: #316800;
+    background: -moz-linear-gradient(100% 100% 90deg, #53A82B, #316800);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#316800), to(#53A82B));
+}
+
+#client-on-call button {
+    position: absolute;
+    top: 5;
+    height: 32px;
+    line-height: 32px;
+	width: 55px;
+    padding: 0;
+	font-size: 15px;
+	color: #FFF;
+	background-color: #222;
+    background: -moz-linear-gradient(100% 100% 90deg, #000, #222);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#222), to(#000));
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	text-shadow: 0px 0px;
+	border-radius: 8px;
+	border: none;
+    cursor: pointer;
+    overflow: visible; /* removes extra side padding in IE */
+}
+
+td #client-ui-transfer, #client-ui-transfer, #client-ui-hangup {
+	background-color: #C00;
+    background: -moz-linear-gradient(100% 100% 90deg, #900, #C00);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#C00), to(#900));
+}
+
+td #client-ui-transfer:active, #client-ui-transfer:active, #client-ui-hangup:active {
+	background-color: #900;
+    background: -moz-linear-gradient(100% 100% 90deg, #C00, #650000);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#650000), to(#C00));
+}
+
+#client-ui-message {
+	font-size:110.1%;
+	margin-top: 2;
+	color: white;
+}
+
+#client-ui-call {
+	font-size:110.1%;
+	margin-top: 2;
+	color: white;
+	text-align:center
+}
+
+h2.client-ui-timer {
+	position: fixed;
+	color: white;
+	top: 20px;
+	margin-left: 30px;
+	z-index: 20;
+}
+
+/* Switchboard */
+#dialer {
+	position: fixed;
+        bottom: -230px;
+	width: 100%;
+	z-index: 20;
+	height: 270px;
+}
+
+#dialer.open {
+	bottom: 0px;
+
+}
+
+#dialer span.replace {
+	display: none;
+}
+
+/* Client UI Overlay for Tab and Content */
+#dialer .client-ui-bg-overlay {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	-moz-opacity: 0.97;
+	filter:alpha(opacity=97);
+	opacity: 0.97;
+}
+
+/* Client UI Inset */
+#client-ui-inset {
+	position: relative;
+}
+
+/* Client UI Tab Status */
+#client-ui-tab-status {
+	width: 50px;
+}
+
+/* Client UI Tab Wedge */
+#dialer .client-ui-tab .client-ui-tab-wedge {
+	margin-top: -50px;
+}
+
+#dialer .client-ui-tab .client-ui-tab-wedge a {
+	position: absolute;
+	display: block;
+	width: 65px;
+	height: 50px;
+	line-height: 45px;
+	margin: 0;
+	padding: 0 0 0 30px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #666;
+	text-align: left;
+	text-decoration: none;
+	outline: none;
+}
+
+#dialer .client-ui-tab .client-ui-tab-wedge a:hover {
+	color: #FFF;
+}
+
+#dialer .client-ui-tab .client-ui-tab-wedge .symbol {
+	font-size: 19px;
+}
+
+/* Client UI Content */
+#dialer .client-ui-content {
+	position: relative;
+	z-index: 1;
+	height: 230px;
+	width: 100%;
+}
+
+
+/* Client UI Tab */
+#dialer .client-ui-tab {
+	position: relative;
+	width: 95px;
+	height: 50px;
+	overflow: hidden;
+}
+
+#dialer .client-ui-tab .client-ui-bg-overlay {
+	-moz-border-radius-topright: 8px; /* FF1+ */
+	-webkit-border-top-right-radius: 8px; /* Saf3+, Chrome */
+	-khtml-border-top-right-radius: 8px; /* Konqueror */
+	border-top-right-radius: 8px; /* Standard. IE9 */
+}
+
+/* Actions */
+
+.queue-calls h3 {
+	text-align: center;
+}
+
+table.db-information {
+	color: whitesmoke;
+    text-align: center;
+}
+
+#oc-cid, #nc-cid {
+	width: 80px;
+}
+
+#oc-first, #oc-last, #oc-retainer, #oc-office, #oc-times-called, #oc-action, #nc-first, #nc-last, #nc-city, #nc-business,  #nc-times-called, #nc-action   {
+	width: 50px;
+}
+
+
+/* Client User List */
+
+#user-list {
+	position: absolute;
+	top: 5px;
+	background: transparent;
+}
+
+#client-ui-user-list {
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+	overflow-y: none;
+}
+
+#client-ui-user-list .user-item {
+	position: relative;
+	text-align: center;
+	list-style: none;
+	margin: 0;
+	padding: 10px 10px 5px 5px;
+	font-size: 12px;
+	color: #FFF;
+	border: 1px solid #444;
+	height: 26px;
+	width: 75px;
+	float: left;
+}
+
+#client-ui-user-list .user-item:hover, #client-ui-user-list .user-item-last:hover {
+	background-color: #333;
+}
+
+#client-ui-user-list .user-item .status-icon {
+	position: absolute;
+	display: block;
+	height: 16px;
+	width: 16px;
+	background-image: url('../img/user-list-status-icon-sprite.png');
+	background-repeat: no-repeat;
+}
+
+#client-ui-user-list .user-name {
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	overflow: hidden;
+	word-wrap: break-word;
+}
+
+#dialer p {
+	color: #fff;
+}
+
+#client-ui-user-list .user-item.no-icons .status-icon {
+	display: none;
+}
+
+/* Chat */
+
+#chat {
+	position: absolute;
+	bottom: 0px;
+	border-left: 1px solid #444;
+	border-top: 1px solid #444;
+	border-right: 1px solid #444;
+	padding: 5px;
+	-moz-border-radius-topleft: 5px; /* FF1+ */
+	-webkit-border-top-left-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-top-left-radius: 5px; /* Konqueror */
+	border-top-left-radius: 5px; /* Standard. IE9 */
+	-moz-border-radius-topright: 5px; /* FF1+ */
+	-webkit-border-top-right-radius: 5px; /* Saf3+, Chrome */
+	-khtml-border-top-right-radius: 5px; /* Konqueror */
+	border-top-right-radius: 5px; /* Standard. IE9 */
+	background-color: black;
+	-moz-opacity: 0.97;
+	filter:alpha(opacity=97);
+	opacity: 0.97;
+	z-index: 20;
+}
+
+#chat #chat-toggle {
+	display: block;
+	float: right;
+	width: 12px;
+	height: 12px;
+	line-height: 9px;
+	text-align: center;
+	margin: 0;
+	color: white;
+	-moz-transform: rotate(270deg); /* FF3.5+ */
+	-webkit-transform: rotate(270deg); /* Saf3.1+, Chrome */
+	-o-transform: rotate(270deg); /* Opera 10.5 */
+	transform: rotate(270deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+#chat .message-title, #chat #chat-name{
+	font-size: 12px;
+	line-height: 1.4;
+	font-family: Helvetica,Arial,sans-serif;
+	color: white;
+	text-shadow: 0 1px 0 black;
+	padding: 5px;
+}
+
+#chat-image {
+	background: url(../img/vbx-client-status.png) 5px -30px no-repeat;
+}
+
+#chat .message {
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
+#chat .username {
+	font-weight: strong;
+    color: #0f0;
+}
+
+#chat .msgContainerDiv {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 90px;
+}
+
+#chat #messageText {
+	border:1px solid #2a2a2a;
+	background:#222;
+	color:#fff;
+	text-shadow:0 1px 0 #000;
+	font-weight:normal;
+	background-image:-webkit-gradient(linear,left top,left bottom,from(#666),to(#222));
+	background-image:-webkit-linear-gradient(#666,#222);
+	background-image:-moz-linear-gradient(#666,#222);
+	background-image:-ms-linear-gradient(#666,#222);
+	background-image:-o-linear-gradient(#666,#222);
+	background-image:linear-gradient(#666,#222);
+	font-family:Helvetica,Arial,sans-serif;
+	background-image:none;
+	padding:.4em;
+	line-height:1.4;
+	font-size:16px;
+	display:block;
+	width:92%;
+	height:50px;
+	-webkit-transition:height 200ms linear;
+	-moz-transition:height 200ms linear;
+	-o-transition:height 200ms linear;
+	transition:height 200ms linear;
+	-moz-border-radius:.6em;
+	-webkit-border-radius:.6em;
+	border-radius:.6em;
+	-webkit-background-clip:padding-box;
+	-moz-background-clip:padding;
+	background-clip:padding-box;
+	-moz-box-shadow:inset 0 1px 4px rgba(0,0,0,.2);
+	-webkit-box-shadow:inset 0 1px 4px rgba(0,0,0,.2);
+	box-shadow:inset 0 1px 4px rgba(0,0,0,.2);
+}
+
+#chat #chatSendButton {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
